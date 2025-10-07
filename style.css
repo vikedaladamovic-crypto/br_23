@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(155, 165, 165);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.opening {
+  width: 300px;
+  margin: 50px auto;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  text-align: center:
+  background-color: #98AFC7;
+}
+
+.opening img{
+   width: 150px;
+  border-radius: 50%;
+}
